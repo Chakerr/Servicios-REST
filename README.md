@@ -24,4 +24,3 @@ Para validar la funcionalidad del servicio, se utilizaron pruebas con Postman, v
 - **POST**: Creación de nuevos registros.
 - **PUT**: Actualización de datos existentes.
 - **DELETE**: Eliminación de registros.
-
